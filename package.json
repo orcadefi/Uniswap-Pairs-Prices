@@ -1,0 +1,10 @@
+{
+  "name": "untitled2",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ethersproject/contracts": "^5.0.3",
+    "@ethersproject/providers": "^5.0.6",
+    "@ethersproject/solidity": "^5.0.3",
+    "@uniswap/sdk": "^3.0.3-beta.1"
+  }
+}
